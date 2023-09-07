@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  margin: 0;
+  pad: 0;
+  box-sizing: border-box;
+}
+body {
+  min-height: 100vh;
+  background-color: #10141e;
+}
+#root {
+  min-height: 100vh;
+}
+
